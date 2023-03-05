@@ -1,0 +1,20 @@
+
+.container{
+    margin: 0 auto;
+    max-width: 1024px;
+    width: 100%;
+}
+.form{
+    margin: 2rem auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #eee;
+    padding: 2rem;
+    border-radius: 4px;
+}
+.form__input{
+    width: 100%;
+    max-width: 500px;
+}
